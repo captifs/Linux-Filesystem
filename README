@@ -1,13 +1,7 @@
 
 
 
-_________________________
-|						 |
-|Bejenaru Adrian 311 CB  |
-|________________________|
-
-
-Am implimentat tema cu vectori. Scopul a fost de a implimenta functionalitatea unui sistem de fisiere.
+Am implimentat acest program cu vectori. Scopul a fost de a implimenta functionalitatea unui sistem de fisiere.
 
 Am ales aceasta structura : 
 typedef struct TVector {
